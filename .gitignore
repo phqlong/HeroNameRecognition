@@ -4,7 +4,7 @@ storage
 
 test_data/*
 *.docx
-
+model/
 train/
 data/
 tests/
