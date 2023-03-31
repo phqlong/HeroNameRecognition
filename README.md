@@ -27,7 +27,7 @@ Project Organization
 ├── requirements.txt                 <- All needed libs
 ```
 
-==============================
+
 How to run
 ------------
 For running with served model backbone and ANN indices, run:
